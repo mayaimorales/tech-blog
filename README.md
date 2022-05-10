@@ -8,6 +8,6 @@ This Tech-Blog application is a a site where users can publish their blog posts 
 
 ## Usage
 
-## Contributing
+## Contributing :raising_hand_woman:
 
 ## License
